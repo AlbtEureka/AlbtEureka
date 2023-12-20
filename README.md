@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **albteureka@outlook.com**
 
-- 🔑 My GPG public key is [422C E50A ADDD 82CE](https://keys.openpgp.org/vks/v1/by-fingerprint/57F235E6801103CC0275BB06422CE50AADDD82CE)
+- 🔑 My GPG public key is [`422C E50A ADDD 82CE`](https://keys.openpgp.org/vks/v1/by-fingerprint/57F235E6801103CC0275BB06422CE50AADDD82CE)
 
 ## 
 
